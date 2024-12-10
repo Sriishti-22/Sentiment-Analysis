@@ -1,1 +1,2 @@
 # Sentiment-Analysis
+A "sentiment analysis using machine learning" project aims to develop a system that automatically identifies and classifies the sentiment (positive, negative, or neutral) expressed within a given piece of text, leveraging machine learning algorithms to analyze the language patterns and key words present in the data, allowing for large-scale analysis of opinions and emotions from various sources like customer reviews, social media posts, or news articles.
